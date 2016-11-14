@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\130911228\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\130911228\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-3777e7c8403590f49bf8ea3bc6abe26048fbd02b.jar" />
+    </item>
+    <item
+        jar="D:\130911228\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\130911228\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-e3146d143e85bd390ab6a63de5bc8ce350812f1f.jar" />
+    </item>
+    <item
+        jar="D:\130911228\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\130911228\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-c786ffd1b87d1d36ea7e359cff5c85dc4f21f211.jar" />
+    </item>
+    <item
+        jar="D:\130911228\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\130911228\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-6d13bc7d31e51fabd4b44c55cde395036b0cadfc.jar" />
+    </item>
+    <item
+        jar="C:\android studio\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\130911228\MyApplication3\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-b7b812f7ea0fb9c9f744cd078b510c995b9110b7.jar" />
+    </item>
+    <item
+        jar="D:\130911228\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\130911228\MyApplication3\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-6ea1d6970a9aa464e08f5494da8d69d6320335f1.jar" />
+    </item>
+
+</items>

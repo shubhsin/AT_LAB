@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\130911228\BgChangeProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\130911228\BgChangeProject\app\build\intermediates\pre-dexed\debug\classes-d7e3df72726ded06e3982ed9fcc9835f6044f1da.jar" />
+    </item>
+    <item
+        jar="D:\130911228\BgChangeProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\130911228\BgChangeProject\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-3e05459ecad80177108952f85ba6d1a04bd6b56c.jar" />
+    </item>
+    <item
+        jar="D:\130911228\BgChangeProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\130911228\BgChangeProject\app\build\intermediates\pre-dexed\debug\classes-67e36a6903b8156ec63dce6c9ee74e586fe3c294.jar" />
+    </item>
+    <item
+        jar="D:\130911228\BgChangeProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\130911228\BgChangeProject\app\build\intermediates\pre-dexed\debug\classes-af3369d325ccfba858132859284a9b933250e859.jar" />
+    </item>
+    <item
+        jar="D:\130911228\BgChangeProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\130911228\BgChangeProject\app\build\intermediates\pre-dexed\debug\classes-a5f3b65ee593c8d9b73f3d5c7d0eba0abda3010c.jar" />
+    </item>
+    <item
+        jar="C:\android studio\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\130911228\BgChangeProject\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-b7b812f7ea0fb9c9f744cd078b510c995b9110b7.jar" />
+    </item>
+
+</items>
